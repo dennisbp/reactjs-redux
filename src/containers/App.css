@@ -1,0 +1,10 @@
+@font-face {
+  font-family: Roboto;
+  src: url(bot.bold.ttf);
+}
+
+h1{
+	color: white;
+	font-family: Roboto;
+	font-weight: 200px;
+}
