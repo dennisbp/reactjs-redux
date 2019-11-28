@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactjs-redux/static/css/main.d5b98071.chunk.css",
+    "main.js": "/reactjs-redux/static/js/main.daf0112c.chunk.js",
+    "main.js.map": "/reactjs-redux/static/js/main.daf0112c.chunk.js.map",
+    "runtime-main.js": "/reactjs-redux/static/js/runtime-main.990cdc96.js",
+    "runtime-main.js.map": "/reactjs-redux/static/js/runtime-main.990cdc96.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/reactjs-redux/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.2d9288a4.chunk.js": "/reactjs-redux/static/js/2.2d9288a4.chunk.js",
+    "static/js/2.2d9288a4.chunk.js.map": "/reactjs-redux/static/js/2.2d9288a4.chunk.js.map",
+    "index.html": "/reactjs-redux/index.html",
+    "precache-manifest.52abd8dcff672a4587709ddb70b4e1bb.js": "/reactjs-redux/precache-manifest.52abd8dcff672a4587709ddb70b4e1bb.js",
+    "service-worker.js": "/reactjs-redux/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/reactjs-redux/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.d5b98071.chunk.css.map": "/reactjs-redux/static/css/main.d5b98071.chunk.css.map",
+    "static/media/App.css": "/reactjs-redux/static/media/bot.bold.54c761cc.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.990cdc96.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.2d9288a4.chunk.js",
+    "static/css/main.d5b98071.chunk.css",
+    "static/js/main.daf0112c.chunk.js"
+  ]
+}
